@@ -19,7 +19,7 @@ git status
 
 ### Branches
 
-[master](https://github.com/rzrasel/flutter-temp-2022-01https://docs.flutter.dev/cookbook)
+[master](https://github.com/rzrasel/flutter-temp-2022-01)
 
 # RzRaselTutorial
 
