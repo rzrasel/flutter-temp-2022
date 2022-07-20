@@ -1,7 +1,6 @@
 # Flutter Temp 2022 01
 
 ## flutter-temp-2022-01
-Flutter Temp 2022 01
 
 ### GIT Command
 ```git_command
@@ -17,5 +16,3 @@ git status
 git remote show origin
 git status
 ```
-
--
